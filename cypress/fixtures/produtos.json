@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "nome": "Vinil Rock One",
+    "artista": "Rock Band",
+    "genero": "Rock"
+  },
+  {
+    "id": 2,
+    "nome": "Vinil Pop Two",
+    "artista": "Pop Star",
+    "genero": "Pop"
+  }
+]

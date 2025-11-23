@@ -1,0 +1,14 @@
+{
+  "name": "replayce-bdd",
+  "version": "1.0.0",
+  "description": "Projeto BDD para testar a busca do RePlayce usando Cypress + Cucumber",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^12.0.0",
+    "@badeball/cypress-cucumber-preprocessor": "^16.0.0",
+    "@bahmutov/cypress-esbuild-preprocessor": "^3.0.0"
+  }
+}

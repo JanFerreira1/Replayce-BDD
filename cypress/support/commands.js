@@ -1,0 +1,1 @@
+// Arquivo obrigatório do Cypress
