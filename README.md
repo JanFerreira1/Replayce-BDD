@@ -14,8 +14,7 @@ Este projeto contém a implementação da técnica BDD para o RePlayce, focada n
 
 ### **Busca por nome retorna resultados**
 
-Descrito em Gherkin no arquivo:  
-`cypress/e2e/features/busca_produto.feature`
+Descrito em Gherkin no arquivo: `cypress/e2e/features/busca_produto.feature`
 
 ---
 
@@ -24,28 +23,29 @@ Descrito em Gherkin no arquivo:
 ### 1. Instalar dependências
 ```bash
 npm install
-
+```
 ---
 
 ### 2. Rodar o RePlayce (projeto original)
 ```bash
 npm run dev
-
+```
 ---
 
 ### 3. Abrir Cypress
 ```bash
 npm run cy:open
+```
 
 ---
 
 ### 4. Executar o cenário
 Clique na feature:
-busca_produto.feature.
+`busca_produto.feature.`
 
 ---
 
-Estrutura do Projeto
+## Estrutura do Projeto
 
 - /cypress/e2e/features → arquivos Gherkin
 
